@@ -2,7 +2,7 @@
 **QA Engineer · Manual & API Testing · Selenium + Java**
 
 ## About me
-I'm a QA trainee engineer from Nagpur, passionate about finding bugs before users do. I've worked on end-to-end testing across BFSI (Loan Origination System) and E-commerce domains — covering functional, regression, API, and database testing.
+I'm a QA trainee engineer from Nanded, passionate about finding bugs before users do. I've worked on end-to-end testing across BFSI (Loan Origination System) and E-commerce domains — covering functional, regression, API, and database testing.
 
 ## Skills
 `Manual Testing` `API Testing (Postman)` `Selenium + Java`
